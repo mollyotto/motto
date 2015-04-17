@@ -58,6 +58,7 @@ footer p{
 	padding:10px;
 }
 
+<<<<<<< HEAD
 ul{
 	list-style: none;
 	padding-left: 0px;
@@ -68,4 +69,14 @@ ul{
 	display: inline-block;
 	padding: 5px 2px 0px 2px;
 	margin: 0px;
+=======
+.social{
+	list-style: none;
+	display: inline-block;
+	padding: 20px 2px 5px 2px;
+}
+
+ul{
+	padding-left: 0px;
+>>>>>>> 16e4d5d7caf6894e575a337db241792476a99412
 }
