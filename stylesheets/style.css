@@ -2,7 +2,7 @@ body{
 	text-align: center;
 	margin: 0 auto;
 	max-width: 800px;
-	background-color: #f8f7e8;
+	/*background-color: #f8f7e8;*/
 }
 
 
@@ -15,6 +15,11 @@ h1, h2 {
 #first {
 	font-family: Montserrat;
 	font-size: 1.5em;
+}
+
+#headshot{
+	max-width: 50%;
+	margin: 30 10 10 30;
 }
 
 nav {
@@ -39,6 +44,14 @@ div p {
 	font-family: Raleway; 
 }
 
+.resume {
+	text-align: left;
+}
+
+.resume li{
+	padding: 20 0 0 20;
+}
+
 .main img {
 	max-width: 800px;
 }
@@ -58,7 +71,6 @@ footer p{
 	padding:10px;
 }
 
-<<<<<<< HEAD
 ul{
 	list-style: none;
 	padding-left: 0px;
@@ -69,14 +81,6 @@ ul{
 	display: inline-block;
 	padding: 5px 2px 0px 2px;
 	margin: 0px;
-=======
-.social{
-	list-style: none;
-	display: inline-block;
-	padding: 20px 2px 5px 2px;
 }
 
-ul{
-	padding-left: 0px;
->>>>>>> 16e4d5d7caf6894e575a337db241792476a99412
-}
+
